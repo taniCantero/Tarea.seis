@@ -1,0 +1,16 @@
+/* Sección CONCEPTO */
+.section_title {
+    font-family: 'Noto Serif JP', serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.section_inner {
+    padding: 50px 10% 30px;
+}
+
+/* Sección de acceso */
+.access_section_inner {
+    padding: 50px 10% 30px;
+    background: rgba(83, 71, 65, .3)
+}
